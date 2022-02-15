@@ -1,6 +1,6 @@
 # PS-Resilience-in-Ecosystems
 
-This is a repository for the paper "Phase-separation physics underlies new theory for the resilience of patchy ecosystems" by Koen Siteur, Quan-Xing Liu$^#$, Vivi Rotschafer, Tjisse van der Heide, Max Rietkerk, Arjen Doelman, Christoffer Bostrom, and Johan van de Koppel#.
+This is a repository for the paper "Phase-separation physics underlies new theory for the resilience of patchy ecosystems" by Koen Siteur, Quan-Xing Liu<sup>*<sup>, Vivi Rotschafer, Tjisse van der Heide, Max Rietkerk, Arjen Doelman, Christoffer Bostrom, and Johan van de Koppel<sup>*<sup>.
 
 ##
 1. Py_Opencl for spatial 2D phase separation patterns (Equation (3); Fig. 4 in main text)
