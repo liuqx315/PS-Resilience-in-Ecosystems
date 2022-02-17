@@ -6,7 +6,7 @@ This is a repository for the paper "Phase-separation physics underlies new theor
 1. Py_Opencl for spatial 2D phase separation patterns (Equation (3); Fig. 4 in main text)
 2. Spinodal region of phase separation occur in Fig. 5A.
 
-Note: please setup the corrected DevinceNr for you computer! "DeviceNr = 2" the number dependent on your graphic card number ans setup.
+Note: please setup the corrected DevinceNr for you computer! "DeviceNr = 2" the number dependent on your graphic card number and setup.
 ##
 
 ##
