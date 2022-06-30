@@ -10,4 +10,4 @@ Note: please setup the corrected DevinceNr for you computer! "DeviceNr = 2" the 
 ##
 
 ##
-Please contact Quan-Xing Liu, qxliu@sklec.ecnu.edu.cn if you have any require on the model simulation. 
+Please contact Quan-Xing Liu, qxliu@sklec.ecnu.edu.cn (or liuqx315@gmail.com) if you have any require on the model simulation. 
