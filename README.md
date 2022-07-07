@@ -8,6 +8,7 @@ This is a repository for the paper "Phase-separation physics underlies new theor
 
 Abbr
 DDA: density-depedent aggregation model; SDF: scale-dependent feedbacks model
+
 Note: please setup the corrected DevinceNr for you computer! "DeviceNr = 2" the number dependent on your graphic card number and setup.
 ##
 
