@@ -9,4 +9,4 @@ This is a repository for the paper "Phase-separation physics underlies new theor
 Note: please setup the corrected DevinceNr for you computer! "DeviceNr = 2" the number dependent on your graphic card number and setup.
 ##
 
-Please contact Quan-Xing Liu, qxliu@sklec.ecnu.edu.cn (or liuqx315@gmail.com) if you have any require on the model simulation. 
+Please contact Quan-Xing Liu, qxliu@sklec.ecnu.edu.cn (or liuqx315@gmail.com) if you have any questions on the model simulation. 
