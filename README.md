@@ -5,6 +5,8 @@ This is a repository for the paper "Phase-separation physics underlies new theor
 ##
 1. Py_Opencl for spatial 2D phase separation patterns (Equation (3); Fig. 4 in main text)
 2. Spinodal region of phase separation occur in Fig. 5A.
+3. 'DDA Model_LS.ipynb' and 'SDF Model_LS.ipynb‘ for the data generate on coarsening laws of Figure S12.
+4. Figure S12 is codes and data for distictive coarsening behavior presented in Fig. S12.
 
 Abbr
 DDA: density-depedent aggregation model; SDF: scale-dependent feedbacks model
