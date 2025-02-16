@@ -14,4 +14,4 @@ DDA: density-depedent aggregation model; SDF: scale-dependent feedbacks model
 Note: please setup the corrected DevinceNr for you computer! "DeviceNr = 2" the number dependent on your graphic card number and setup.
 ##
 
-Please contact Quan-Xing Liu, qxliu@sklec.ecnu.edu.cn (or liuqx315@gmail.com) if you have any questions on the model simulation. 
+Please contact Quan-Xing Liu, qx.liu@sjtu.edu.cn (or liuqx315@gmail.com) if you have any questions on the model simulation. 
